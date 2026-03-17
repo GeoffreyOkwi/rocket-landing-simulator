@@ -70,7 +70,6 @@ pip install -r requirements.txt
 
 streamlit run dashboard/app.py
 
----
 
 ## Project Structure
 
@@ -91,6 +90,14 @@ README.md
 
 ---
 
+
+---
+
+## 📊 Telemetry Dashboard
+
+![Throttle vs Time](screenshots/throttle_vs_time.png)
+
+
 ## Future Improvements
 
 • Real-time simulation instead of pre-recorded telemetry
@@ -101,8 +108,13 @@ README.md
 
 • 3D trajectory visualization
 
----
+
+## ⚙️ How to Run
+
+```bash
+pip install -r requirements.txt
+streamlit run dashboard/app.py
 
 ## Author
 
-Geoffrey Jones Okwi
+Geoffrey Okwi
