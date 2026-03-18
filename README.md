@@ -85,6 +85,15 @@ app.py
 
 data/  
 telemetry.csv
+## 📊 Dataset
+
+This project generates high-frequency telemetry data (~250,000 rows) capturing:
+
+- Time-series altitude, velocity, and acceleration
+- Fuel consumption dynamics
+- Throttle control behavior
+
+Sample data is included for inspection.
 
 README.md
 
